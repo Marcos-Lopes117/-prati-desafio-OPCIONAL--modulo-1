@@ -1,4 +1,4 @@
-# -prati-desafio-OPCIONAL--modulo-1
+# +prati desafio OPCIONAL modulo 1
 Lista de exercício da trilha de desenvolvimento full stack jr. e Projeto (opcional) do curso.
 
 1. Escreva um programa para calcular a redução do tempo de vida de um fumante.
